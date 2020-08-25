@@ -12,7 +12,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/sparshtiwari/">View My LinkedIn Profile</a> 
   <br><br>
   <a href="https://drive.google.com/file/d/19F9J1Q6Hz6wulximm0ZrQ1aYlGwOYcYA/view?usp=sharing">View My Resume</a>
-  <br><br>
-  
+   
 theme: jekyll-theme-minimal
 
