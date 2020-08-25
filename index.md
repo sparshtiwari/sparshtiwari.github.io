@@ -4,21 +4,22 @@
 
 ### Machine Learning / Data Science Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Machine Learning Repo](/sample_page)
+<img src="images/ML.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Data Science Repo](/pdf/sample_presentation.pdf)
+<img src="images/titanic and mnist.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 ### Data Analysis with Pandas and Matplot Lib.
 
+[Data Analysis Repo](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+<!--
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
@@ -31,5 +32,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+-->
 <!-- Remove above link if you don't want to attibute -->
