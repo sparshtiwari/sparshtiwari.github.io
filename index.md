@@ -4,17 +4,17 @@
 
 ### Machine Learning / Data Science Projects 
 
-[Machine Learning Repo](/sample_page)
+[Machine Learning Repo](https://github.com/sparshtiwari/MachineLearning)
 <img src="images/ML.png?raw=true"/>
 
 ---
-[Data Science Repo](/pdf/sample_presentation.pdf)
+[Data Science Repo](https://github.com/sparshtiwari/DeepLearning)
 <img src="images/titanic and mnist.png?raw=true"/>
 
 ---
 ### Data Analysis with Pandas and Matplot Lib.
 
-[Data Analysis Repo](http://example.com/)
+[Data Analysis Repo](https://github.com/sparshtiwari/DataAnalysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
